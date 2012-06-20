@@ -16,7 +16,6 @@ The Digital Engineering Movement website is curated by a team of editors.
 
 Stuart is currently a senior engineer with [DataSift](http://www.datasift.com).
 
-
-### Stuart Herbert
+### Rob Allen
 
 [Rob Allen](http://akrabat.com) has been developing software commercially since 1995 and leading development teams on and off for over 10 years. He is the Technical Director of [Big Room Internet](http://www.bigroominternet.co.uk) in the UK, focussing on project management and future products for the company.
