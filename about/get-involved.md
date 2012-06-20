@@ -30,7 +30,7 @@ __2. Fork the [demovement.org](https://github.com/demovement/demovement.github.c
 __3. Download the website's source code from GitHub to your local computer__
 
 {% highlight bash %}
-git clone https://github.com/your-username/demovement.github.com
+git clone https://github.com/your-username/demovement.github.com demovement.org
 {% endhighlight %}
 
 __4. Run Jekyll, to automatically build a local copy of the demovement website:__
